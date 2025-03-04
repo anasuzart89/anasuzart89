@@ -1,11 +1,11 @@
-<p align="center"> ### Olá, Seja bem-vindo ao meu espaço no GitHub! 🌺 </p> 
+<p align="center"> Olá, Seja bem-vindo ao meu espaço no GitHub! 🌺 </p> 
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistema, Em constante aprendizado para me tornar uma desenvolvedora Full Stack.. </p>      
 
 <p align="center">🎨 *Desenhista* | 📚 *Estudante de Análise e Desenvolvimento de Sistemas* | 💻 *Web Designer* </p>
 <p align="center">
    <img
-  src="https://github.com/anasuzart89/anasuzart89/blob/main/lalalalalala.png" width="100" height="100">
+  src="https://github.com/anasuzart89/anasuzart89/blob/main/lalalalalala.png" width="150" height="150">
 </p> 
 
 ---
