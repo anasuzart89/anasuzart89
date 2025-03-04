@@ -1,19 +1,17 @@
-### Olá, Muito prazer, me chamo Ana Caroline Suzart! 🌺  
+### Olá, Seja bem-vindo ao meu espaço no GitHub! 🌺  
 <p align="center">
    <img
   src="https://github.com/anasuzart89/anasuzart89/blob/main/lalalalalala.png" width="100" height="100">
 </p>
   
-Sou estudante de Análise e Desenvolvimento de Sistema, busco me especializar como desenvolvedora Full Stack.
-
-Seja bem-vindo ao meu espaço no GitHub! 🚀       
+Estudante de Análise e Desenvolvimento de Sistema, Em constante aprendizado para me tornar uma desenvolvedora Full Stack..       
 
 🎨 *Desenhista* | 📚 *Estudante de Análise e Desenvolvimento de Sistemas* | 💻 *Web Designer*  
 
 ---
 ## 📫 Como me Encontrar  
 
-📧 *E-mail:* ana.suzart89@outlook.com  
+📧 *E-mail secundario:* aninhasuzart89@gmail.com  
 📷 *Instagram:* [@aninhasuzart](https://www.instagram.com/aninhassuzart)  
 💼 *LinkedIn:* [Ana Caroline Suzart](https://www.linkedin.com/in/ana-caroline-suzart-da-silva-6914b1153)  
 
@@ -21,7 +19,7 @@ Seja bem-vindo ao meu espaço no GitHub! 🚀
 ### 🚀 Tecnologias e Ferramentas
 
 #### Linguagens de Programação:
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
