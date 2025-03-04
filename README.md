@@ -1,12 +1,12 @@
 ### Olá, Seja bem-vindo ao meu espaço no GitHub! 🌺  
-<p align="center">
-   <img
-  src="https://github.com/anasuzart89/anasuzart89/blob/main/lalalalalala.png" width="100" height="100">
-</p>
-  
+
 Estudante de Análise e Desenvolvimento de Sistema, Em constante aprendizado para me tornar uma desenvolvedora Full Stack..       
 
-🎨 *Desenhista* | 📚 *Estudante de Análise e Desenvolvimento de Sistemas* | 💻 *Web Designer*  
+🎨 *Desenhista* | 📚 *Estudante de Análise e Desenvolvimento de Sistemas* | 💻 *Web Designer* 
+<p align="right">
+   <img
+  src="https://github.com/anasuzart89/anasuzart89/blob/main/lalalalalala.png" width="100" height="100">
+</p> 
 
 ---
 ## 📫 Como me Encontrar  
