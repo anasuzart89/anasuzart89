@@ -1,9 +1,13 @@
-### 🌟 Olá, Muito prazer, me chamo Ana Caroline Suzart! 🌺  
+### Olá, Muito prazer, me chamo Ana Caroline Suzart! 🌺  
+<body>
+<p align="left">
+   <img
+  src="https://github.com/anasuzart89/anasuzart89/blob/main/lalalalalala.png" width="100" height="100">
+</p>
+  
 Sou estudante de Análise e Desenvolvimento de Sistema, busco me especializar como desenvolvedora Full Stack.
-Seja bem-vindo ao meu espaço no GitHub! 🚀
 
-<ima src="lalalalalala.png" alt="Minha pixel Art" width="50" align="left">  
-
+Seja bem-vindo ao meu espaço no GitHub! 🚀       
 
 🎨 *Desenhista* | 📚 *Estudante de Análise e Desenvolvimento de Sistemas* | 💻 *Web Designer*  
 
