@@ -1,6 +1,6 @@
 ### 🌟 Olá, Muito prazer, me chamo Ana Caroline Suzart! 🌺  
-
-Seja bem-vindo ao meu espaço no GitHub! 🚀 Aqui você encontra meus projetos, códigos e um pouco sobre minha trajetória. 
+Sou estudante de Análise e Desenvolvimento de Sistema, busco me especializar como desenvolvedora Full Stack.
+Seja bem-vindo ao meu espaço no GitHub! 🚀
 
 <ima src="lalalalalala.png" alt="Minha pixel Art" width="50" align="left">  
 
@@ -43,8 +43,7 @@ Seja bem-vindo ao meu espaço no GitHub! 🚀 Aqui você encontra meus projetos,
 
 ## 📊 Minhas Estatísticas  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anasuzart89&show_icons=true&theme=radical)  
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anasuzart89&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anasuzart89&layout=compact&theme=radical)  
 
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=anasuzart89&theme=radical)  
