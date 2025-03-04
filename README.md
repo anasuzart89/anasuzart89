@@ -1,6 +1,5 @@
 ### Olá, Muito prazer, me chamo Ana Caroline Suzart! 🌺  
-<body>
-<p align="left">
+<p align="center">
    <img
   src="https://github.com/anasuzart89/anasuzart89/blob/main/lalalalalala.png" width="100" height="100">
 </p>
@@ -22,7 +21,7 @@ Seja bem-vindo ao meu espaço no GitHub! 🚀
 ### 🚀 Tecnologias e Ferramentas
 
 #### Linguagens de Programação:
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
@@ -46,12 +45,10 @@ Seja bem-vindo ao meu espaço no GitHub! 🚀
 ---
 
 ## 📊 Minhas Estatísticas  
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anasuzart89&show_icons=true&theme=radical)
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=anasuzart89&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anasuzart89&show_icons=true&theme=radical)           
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anasuzart89&layout=compact&theme=radical)  
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=anasuzart89&theme=radical)  
 
 ---
 
-Se gostou, não esqueça de dar ⭐ no repositório e me seguir! 🚀✨
+Se gostou, siga meu perfil ! 🚀✨
